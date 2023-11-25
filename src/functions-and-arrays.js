@@ -2,6 +2,7 @@
 function maxOfTwoNumbers() {}
 
 
+//just a quick comment
 
 // Iteration #2: Find longest word
 const words = ['mystery', 'brother', 'aviator', 'crocodile', 'pearl', 'orchard', 'crackpot'];
